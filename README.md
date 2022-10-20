@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="NiengLeebanner.jpg" width="1500" alt="accessibility text">
+</p>
 
 
 - 👋 Hi, I’m @NiengLee
