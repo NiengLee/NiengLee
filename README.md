@@ -6,7 +6,7 @@
 
 🧐**About Me**:
 
-I'm really pasionated about the science and programming world, I am graduated as a **Chemistry Enginner** in the National University of Colombia, and I had studied **Data science** and **Machine Learning** in DataCamp. My objective is to integrate these two areas of science and with this, achieve important analyzes in chemical contexts to have greater clarity about the processses than can be carried out, and help whoever needs this to understand natural phenomena.
+I'm really pasionated about the science and programming world, I **Chemistry Enginner**, with knowledge and experience **Data science** and **Machine Learning**, and I had develop **backend** projects by my own. My objective is to integrate these professional areas and with this, achieve important analyzes in chemical contexts to have greater clarity about the processses than can be carried out, and help whoever needs this to understand natural phenomena.
 
 🌱Right now, I'm constantly learning about chemistry and programming, so, I´m studying in **Digital House** certified web development, and it is expected that I can continue learning other topics about my interests.
 
@@ -21,15 +21,20 @@ Here, you will find repositories related with development of group work for each
 ⚪CSS
 ⚪JS
 ⚪SQL --> PostgreSQL most preferred by me for DB management
+⚪NoSQL ---> MongoDb most preferred by me for no structured query language for DB management
 ⚪LINUX --> starting with ubuntu, and then, to dominate Tails Linux and Kali linux
 ⚪Git/GitHub --> powerful tool to work remote and collaborative in team
 ⚪KNIME --> powerful tool to manipulate set of data
 ⚪PowerBI --> Just for Showing data to clairly way and manipulate data to make important decisions
 ⚪Bash
+⚪Docker
+⚪AWS
+
+for FRONTEND tools, I've basic concepts about Typescript, viteJS, NextJs/React, Tailwindscss.
 
 💻**Skills of my interest to develop**:
 
-⚪Js/Typescript ⚪Goolang/(Framework Gin for Backend) ⚪Docker/Kubernets ⚪Scala ⚪Apache/hadoop(Pyspark) ⚪Google cloud or AWS ⚪Jenkins
+⚪Js/Typescript ⚪Goolang/(Framework Gin for Backend) ⚪Scala ⚪Apache/hadoop(Pyspark) ⚪Google cloud or AWS ⚪Jenkins
 
 🙋‍♂️**SoftSkills learnt**:
 
