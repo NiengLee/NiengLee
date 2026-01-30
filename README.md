@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="NiengLeebanner.png" width="1500" alt="accessibility text">
+  <img src="./NiengLeebanner.png" alt="Banner" style="max-width: 100%; height: auto;">
 </p>
+
 <!---
 NiengLee/NiengLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
