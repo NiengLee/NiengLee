@@ -13,10 +13,17 @@ Trabajo en construcción de APIs (interfaces de programación de aplicaciones), 
 ## Objetivo del repositorio
 Los avances tecnológicos impactan de forma transversal a las actividades económicas y a las distintas profesiones. En este contexto, resulta clave incorporar y comprender el uso de herramientas digitales en las áreas de ingeniería. Este repositorio tiene como propósito aplicar tecnologías informáticas actuales para desarrollar soluciones en ingeniería química y, al mismo tiempo, ofrecer una alternativa y apoyo a los procesos académicos universitarios en aquellos casos donde estas tecnologías aún no se han integrado plenamente.
 
-### Enfoque
+### Enfoque software
 - Backend: FastAPI, Django, PostgreSQL, Elasticsearch
-- Data/ML: pandas, NumPy, scikit-learn, TensorFlow/PyTorch, Bokeh
+- Data Science / ML: pandas, NumPy, scikit-learn, TensorFlow/PyTorch, Bokeh
 - DevOps: Linux, Docker, NGINX, AWS, Git, GitHub Actions (CI/CD: integración continua/entrega continua)
+
+### Enfoque Ingeniería química
+- Termodinámica general
+- Termodinámica en sistemas multicomponente/multifasico
+- Termodinámica en sistemas reactivos y fenómenos de superficie
+- Fenomenos de transporte
+- Operaciones unitarias (Transferenca de cantidad de movimiento, calor y masa)
 
 ### Proyectos destacados
 - Implementación de herramientas software para soluciones en ingeniería química.
