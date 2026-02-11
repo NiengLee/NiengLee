@@ -49,6 +49,6 @@ Los avances tecnológicos impactan de forma transversal a las actividades econó
 - 🦀 Rust
 
 ### Contacto
-- ▶️ Youtube: 
-- 👥 LinkedIn: linkedin.com/in/ncyl91/
+- ▶️ [Youtube](https://www.youtube.com/@ExergiaCode)
+- 👥 [LinkedIn](linkedin.com/in/ncyl91/)
 - 📧 E-mail: ncleeg@unal.edu.co
