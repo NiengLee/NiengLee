@@ -23,7 +23,7 @@ Los avances tecnológicos impactan de forma transversal a las actividades econó
 - 🔵 Termodinámica general
 - 🔵 Termodinámica en sistemas multicomponente/multifasico
 - 🔵 Termodinámica en sistemas reactivos y fenómenos de superficie
-- 🔵 Fenomenos de transporte
+- 🔵 Fenómenos de transporte
 - 🔵 Operaciones unitarias (Transferenca de cantidad de movimiento, calor y masa)
 
 ### 💼 Proyectos destacados
@@ -50,5 +50,5 @@ Los avances tecnológicos impactan de forma transversal a las actividades econó
 
 ### Contacto
 - ▶️ [Youtube](https://www.youtube.com/@ExergiaCode)
-- 👥 [LinkedIn](linkedin.com/in/ncyl91/)
+- 👥 [LinkedIn](https://www.linkedin.com/in/ncyl91/)
 - 📧 E-mail: ncleeg@unal.edu.co
